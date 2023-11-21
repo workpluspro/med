@@ -31,63 +31,18 @@
   "mods": [
     {
       "app": "minecraft",
-      "url": "https://files.catbox.moe/okm7p2.mcaddon",
-      "path": "Download/ElementalWeapons.mcaddon",
-      "image": "https://i.imgur.com/AVwvRIn.jpg",
-      "title": "Mod: Better Guns",
+      "url": "https://modcraft.su/poload/one-block-1_18_12-amgg.mcworld",
+      "path": "Download/one-block.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2021-08/1628675089_one-skyblock-1.jpg",
+      "title": "One Skyblock map",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     },
  {
     "app": "minecraft",
-      "url": "https://files.catbox.moe/okm7p2.mcaddon",
-      "path": "Download/ElementalWeapons.mcaddon",
-      "image": "https://i.imgur.com/AVwvRIn.jpg",
-      "title": "Mod: Better Guns",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-
- {
-    "app": "minecraft",
-      "url": "https://files.catbox.moe/okm7p2.mcaddon",
-      "path": "Download/ElementalWeapons.mcaddon",
-      "image": "https://i.imgur.com/AVwvRIn.jpg",
-      "title": "Mod: Better Guns",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-
- {
-    "app": "minecraft",
-      "url": "https://files.catbox.moe/okm7p2.mcaddon",
-      "path": "Download/ElementalWeapons.mcaddon",
-      "image": "https://i.imgur.com/AVwvRIn.jpg",
-      "title": "Mod: Better Guns",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-
- {
-    "app": "minecraft",
-      "url": "https://files.catbox.moe/okm7p2.mcaddon",
-      "path": "Download/ElementalWeapons.mcaddon",
-      "image": "https://i.imgur.com/AVwvRIn.jpg",
-      "title": "Mod: Better Guns",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-
- {
-    "app": "minecraft",
-      "url": "https://files.catbox.moe/okm7p2.mcaddon",
-      "path": "Download/ElementalWeapons.mcaddon",
-      "image": "https://i.imgur.com/AVwvRIn.jpg",
-      "title": "Mod: Better Guns",
-      "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
-    },
-
- {
-      "app": "minecraft",
-      "url": "https://files.catbox.moe/x8n98v.mcaddon",
-      "path": "Download/ElementalWeapons.mcaddon",
-      "image": "https://modscraft.net/uploads/posts/2022-12/1671813145_elemental-weapons-mod-1.jpg",
-      "title": "Mod: Elemental Weapons",
+      "url": "https://modcraft.su/poload/skyblock-minecraft-bedrock-edition.mcworld",
+      "path": "Download/skyblock-minecraft.mcaddon",
+      "image": "https://fmcpe.com/uploads/posts/2017-08/1502122674_skyblock-1.jpg",
+      "title": "Skyblock islands map",
       "description": "First make sure you've got the right version of Minecraft PE!\n1. Click on start button\n2. Choose a mod to download\n3. Click Install Button and enjoy your game. The screen might go black for a while but just wait for it to load!"
     }
   ],
